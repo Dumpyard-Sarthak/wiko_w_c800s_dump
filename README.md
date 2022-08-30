@@ -1,0 +1,18 @@
+## c800-user 8.0.0 OPR1.170623.032 eng.android.1520137335 release-keys
+- Manufacturer: WIKO
+- Platform: msm8937
+- Codename: W_C800S
+- Brand: WIKO
+- Flavor: c800-user
+- Release Version: 8.0.0
+- Id: OPR1.170623.032
+- Incremental: eng.android.1520137335
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: 280
+- Fingerprint: WIKO/W_C800S/W_C800S:8.0.0/OPR1.170623.032/1510812251:user/release-keys
+- OTA version: 
+- Branch: c800-user-8.0.0-OPR1.170623.032-eng.android.1520137335-release-keys
+- Repo: wiko_w_c800s_dump
