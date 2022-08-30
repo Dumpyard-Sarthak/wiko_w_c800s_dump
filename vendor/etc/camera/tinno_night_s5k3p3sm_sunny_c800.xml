@@ -1,0 +1,57 @@
+<TinnoParameter>
+	<nightshot>
+		<denoiseEnable>0</denoiseEnable>
+		<!--
+		<bestEnable>1</bestEnable>
+		<bestParamTable usage="multi-best" name="table1">
+			<iso_start>0</iso_start>
+			<iso_end>500</iso_end>
+		</bestParamTable>
+		-->
+		<denoiseParamTable usage="multi-denoise" name="table1">
+			<iso_start>500</iso_start>
+			<iso_end>550</iso_end>
+			<sharpness_enable>1</sharpness_enable>
+			<sharpness_level>1</sharpness_level>
+			<saturation>1</saturation>
+			<light>1</light>
+			<denoise_level>1</denoise_level>
+		</denoiseParamTable>
+		<denoiseParamTable usage="multi-denoise" name="table2">
+			<iso_start>550</iso_start>
+			<iso_end>600</iso_end>
+			<sharpness_enable>2</sharpness_enable>
+			<sharpness_level>2</sharpness_level>
+			<saturation>2</saturation>
+			<light>2</light>
+			<denoise_level>2</denoise_level>
+		</denoiseParamTable>
+		<denoiseParamTable usage="multi-denoise" name="table3">
+			<iso_start>600</iso_start>
+			<iso_end>650</iso_end>
+			<sharpness_enable>3</sharpness_enable>
+			<sharpness_level>3</sharpness_level>
+			<saturation>3</saturation>
+			<light>3</light>
+			<denoise_level>3</denoise_level>
+		</denoiseParamTable>
+		<denoiseParamTable usage="multi-denoise" name="table4">
+			<iso_start>650</iso_start>
+			<iso_end>700</iso_end>
+			<sharpness_enable>4</sharpness_enable>
+			<sharpness_level>4</sharpness_level>
+			<saturation>4</saturation>
+			<light>4</light>
+			<denoise_level>4</denoise_level>
+		</denoiseParamTable>
+		<denoiseParamTable usage="multi-denoise" name="table5">
+			<iso_start>700</iso_start>
+			<iso_end>750</iso_end>
+			<sharpness_enable>5</sharpness_enable>
+			<sharpness_level>5</sharpness_level>
+			<saturation>5</saturation>
+			<light>5</light>
+			<denoise_level>5</denoise_level>
+		</denoiseParamTable>
+	</nightshot>
+</TinnoParameter>

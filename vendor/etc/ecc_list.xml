@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- 
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+<configs>
+    <config name="EccList">
+        <item name="Ecc" removeable="false">112</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">1</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">911</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">1</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">000</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">0</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">08</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">0</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">110</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">0</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">118</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">0</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">999</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">0</item>
+    </config>
+
+    <config name="EccList">
+        <item name="Ecc" removeable="false">119</item>
+        <item name="Category" removeable="false">0</item>
+        <item name="Condition" removeable="false">1</item>
+    </config>
+
+</configs>
