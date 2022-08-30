@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+		<group name="Framework">    	
+    	<prop name="persist.tinno.debug.looper.time" description="show the process Time for each message in the looper" type="String" value="0|500"/>
+    	<prop name="persist.tinno.debug.looper.uid" description="show the special UID message process time" type="String" value="0|1000"/>    	
+    	<prop name="persist.tinno.debug.ssm.ams.bc" description="show the AMS broadcast Message log" type="Boolean"/>    	
+    	<prop name="persist.tinno.debug.order_b" description="show the AMS order broadcast Message log" type="Boolean"/>
+    	<prop name="persist.tinno.debug.input" description="For extra input log" type="Boolean"/>    	
+    	<prop name="persist.tinno.debug.message" description="Print all message in message queue of each process" type="Boolean"/>   
+    	<prop name="persist.tinno.debug.looper" description="Print the time spent for each message" type="Boolean"/>
+    	<prop name="persist.tinno.debug.post.time" description="Print the time if the message is too late before process it" type="String" value="0|1000"/>
+    </group>
+		<group name="System Performance">    	    
+    	<prop name="persist.tinno.debug.view.speed" description="show some log if app process click too slow" type="Boolean"/>   
+    	<prop name="persist.tinno.drawframe" description="improve the Choreographer doFrame Message in Looper Order" type="String" value="0|10"/>    	
+    </group>
+    <group name="Smart Standby Power">
+    	<prop name="persist.tinno.debug.ssm" description="show all the SSM log" type="Boolean"/>    	
+    	<prop name="persist.tinno.debug.ssm.pms" description="show the SSM log of Power Manager Service" type="Boolean"/>    	
+    	<prop name="persist.tinno.debug.ssm.ams" description="show the SSM log of Alarm Manager Service" type="Boolean"/>    	
+    	<prop name="persist.tinno.debug.ssm.lms" description="show the SSM log of Location Manager Service" type="Boolean"/>    	
+    	<prop name="persist.tinno.PowerSave" description="Config Smart Power Save, open(1)/close(0)" type="String" value="0|1"/>    	
+    </group>
+    <group name="Log Config">
+        <prop name="persist.tinno.mdlog.files" description="modem log file max number" type="String" value="5|10|20"/>
+        <prop name="persist.tinno.mdlog.size" description="modem log file max size in MB" type="String" value="300|600|900"/>        
+    </group>    
+    <group name="Network Policy">
+    	<prop name="persist.tinno.debug.netpolicy" description="show the network policy log" type="Boolean"/>    	
+    </group>
+    <group name="Alarm Batch">
+    	<prop name="persist.tinno.debug.ams.batch" description="show the alarm batch log" type="Boolean"/>    	
+    </group>
+    <group name="Doze and App Standby">
+    	<prop name="persist.config.AutoPowerModes" description="Config Doze and App Standby, open(1)/close(0)" type="Boolean"/>    	
+    </group>
+    <!--
+    <group name="Root">
+    	<prop name="persist.tinno.debug" description="set phone root, only user version, 1 means root, default is 0" type="String" value="0|1"/>    	
+    </group>
+    -->
+    <group name="Telephony">    	
+    	<prop name="persist.tinno.debug.fds" description="enable the FastDormancyService log" type="Boolean"/>
+        <prop name="persist.tcf.mms.firewall" description="enable the mms firewall" type="Boolean"/>
+        <prop name="persist.tcf.ss.custom" description="enable the signalstrength custom" type="Boolean"/>
+        <prop name="persist.tcf.fast.reg.4g" description="Fast register to 4G" type="Boolean"/>
+        <prop name="persist.tcf.hotswap.restart" description="Auto restart after hotswap" type="Boolean"/>
+        <prop name="persist.tcf.antenna.enable" description="AntennaControllers Enabled" type="Boolean"/>
+    </group>
+    <group name="USB Debug">    
+    	<prop name="persist.sys.usb.config" description="make the usb mode change to debug mode" type="String" value="diag,serial_smd,rmnet_qti_bam,adb|charging|none"/>
+    	<prop name="persist.sys.usb.config.extra" description="enabled Modem/Diagnostic/RNDIS at the same time" type="String" value="serial_smd,diag|none"/>
+    	
+    </group>
+    <group name="Touch Panel">
+        <prop name="persist.tinno.debug.k" description="tp log switch" type="String" value="tpdebug_0|tpdebug_1"/>
+    </group>
+</config>

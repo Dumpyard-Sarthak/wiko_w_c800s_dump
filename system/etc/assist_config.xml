@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources module="platform" configVersion="1.0.0.2" requirementsVersion="0.1">
+	<string-array name="clean_ignored" value="com.google.android.gms,com.ape.myseneschal,com.ape.screenshot,com.applock.tinno,com.mavenir.android.apps.smartfren"></string-array>
+	<string-array name="main_undisplay" value=""></string-array>
+	<bool name="power_saving_mode" value="false"></bool>
+	<bool name="power_saving_brightness" value="false"></bool>
+	<string name="power_saving_white_list" value="com.wiko.wiline,com.ltm.mc1,com.xit.c001,com.android.cts.splitapp,com.wiko.smartfolio,com.ape.cubes,com.ape.folio,com.wiko.launcher,com.wiko.mdm,com.wiko.wikoservicesloader,com.ape.smartleftpage,com.twitter.android,com.facebook.katana,com.facebook.orca,com.instagram.android,com.saleTrack,com.sina.weibo,com.tinno.systemupdate,com.android.providers.downloads,com.skype.raider,com.skype.rover,com.tencent.mm,com.tencent.mobileqq,jp.naver.line.android,com.whatsapp,com.ape.weather3,com.ape.music,com.tencent.android.qqplaza4sugar,com.ape.sync,com.ape.folio,com.ape.cubes,com.qihoo.security,com.qiku.cloudfolder,com.qiku.android.clone360,com.qiku.cloudfoldertest,com.holaverse.holagames,com.applock.tinno,com.spotify.music,com.runtastic.android.pro2,com.mavenir.android.apps.smartfren,org.telegram.messenger,org.withouthat.acalendar,com.google.android.apps.wallpaper"></string>	
+	<string name="boot_optimize_whitelist" value="com.wiko.wiline,com.ltm.mc1,com.xit.c001,com.qihoo.security,com.mobilesrepublic.appy,com.antivirus,com.bitdefender.antivirus,com.avira.android,com.cmcm.locker,com.cleanmaster.security,com.symantec.mobilesecurity,com.pdlp.pro.android.app,com.pdlp.android.plugin,com.pdlp.android.app,com.pdlp.android,com.android.cts.splitapp,com.ape.folio,com.ape.cubes,com.qustodio.qustodioapp,com.avast.android.mobilesecurity,com.dashlane,com.gojek.life,com.xooloo.tv,com.xooloo.kids,de.wetteronline.wetterapp,com.sfr.android.coach,com.sfr.android.ado,com.sfr.android.kids,com.kms.free,com.tencent.mm,com.simat.trakingonservice,com.bbm,com.viber.voip,app.zenly.locator,com.domobile.applock,com.xooloo.remote.parental,com.xooloo.digital.coach,com.fotoable.applock,com.mavenir.android.apps.smartfren,org.withouthat.acalendar"></string>
+</resources>
+
+

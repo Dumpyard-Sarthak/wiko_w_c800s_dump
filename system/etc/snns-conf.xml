@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- carrierName    : sim card carrier name -->
+<!-- carrierNumeric : sim card carrier numeric -->
+<!-- operatorNumeric: search network operator numeric -->
+<!-- operatorLong   : search network operator alpha long -->
+<!-- operatorShort  : search network operator alpha short -->
+<snns version="1">
+    <snn values="Lebara">
+        <carrierName>Lebara</carrierName>
+        <carrierNumeric>20408</carrierNumeric>
+        <operatorNumeric>20408</operatorNumeric>
+        <operatorLong>NL KPN</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="NL KPN">
+        <carrierName>KPN</carrierName>
+        <carrierNumeric>20408</carrierNumeric>
+        <operatorNumeric>20408</operatorNumeric>
+        <operatorLong>KPN</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="vodafone NL">
+        <carrierName>Lycamobile</carrierName>
+        <carrierNumeric>20409</carrierNumeric>
+        <operatorNumeric>20404</operatorNumeric>
+        <operatorLong>Lycamobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Lycamobile">
+        <carrierName>Lycamobile</carrierName>
+        <carrierNumeric>20409</carrierNumeric>
+        <operatorNumeric>20408</operatorNumeric>
+        <operatorLong>NL KPN</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="NL Telfort">
+        <carrierName>NL Telfort</carrierName>
+        <carrierNumeric>20412</carrierNumeric>
+        <operatorNumeric>20408</operatorNumeric>
+        <operatorLong>NL KPN</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="T-Mobile NL">
+        <carrierName>T-Mobile  NL</carrierName>
+        <carrierNumeric>20416</carrierNumeric>
+        <operatorNumeric>20416</operatorNumeric>
+        <operatorLong>T-Mobile  NL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Ooredoo">
+        <carrierName>Orange F</carrierName>
+        <carrierNumeric>20801</carrierNumeric>
+        <operatorNumeric>60303</operatorNumeric>
+        <operatorLong>Nedjma</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange F">
+        <carrierName>Free</carrierName>
+        <carrierNumeric>20815</carrierNumeric>
+        <operatorNumeric>20801</operatorNumeric>
+        <operatorLong>Free</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="F-Bouygues Telecom">
+        <carrierName>Bouygues Telecom</carrierName>
+        <carrierNumeric>20820</carrierNumeric>
+        <operatorNumeric>20820</operatorNumeric>
+        <operatorLong>Bouygues Telecom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>vodafone ES</carrierName>
+        <carrierNumeric>21401</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="RACC">
+        <carrierName>RACC</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="SFR F">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>20810</operatorNumeric>
+        <operatorLong>F SFR</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="SFR F">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>20810</operatorNumeric>
+        <operatorLong>SFR</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Free F">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>20815</operatorNumeric>
+        <operatorLong>Free</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Bouygues Telecom F">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>20820</operatorNumeric>
+        <operatorLong>F-Bouygues Telecom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="BYTEL F">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>20820</operatorNumeric>
+        <operatorLong>BYTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="vodafone ES">
+        <carrierName>simyo</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21401</operatorNumeric>
+        <operatorLong>simyo</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="vodafone ES">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21401</operatorNumeric>
+        <operatorLong>JAZZTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="EUSKALTEL">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="OPENMOVIL">
+        <carrierName>OPENMOVIL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Mundo R">
+        <carrierName>mobilR</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="EUSKALTEL">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="mobilR">
+        <carrierName>mobilR</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="EUSKALTEL">
+        <carrierName>EUSKALTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>E AMENA</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>Orange</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Mundo R">
+        <carrierName>mobilR</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>mobilR</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>simyo</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Yoigo">
+        <carrierName>simyo</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21404</operatorNumeric>
+        <operatorLong>simyo</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Yoigo">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21404</operatorNumeric>
+        <operatorLong>JAZZTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="movistar">
+        <carrierName>simyo</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21407</operatorNumeric>
+        <operatorLong>simyo</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="movistar">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21403</carrierNumeric>
+        <operatorNumeric>21407</operatorNumeric>
+        <operatorLong>JAZZTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>Yoigo</carrierName>
+        <carrierNumeric>21404</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Yoigo">
+        <carrierName>Yoigo</carrierName>
+        <carrierNumeric>21404</carrierNumeric>
+        <operatorNumeric>21404</operatorNumeric>
+        <operatorLong>YOIGO</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="MASMOVIL">
+        <carrierName>MASMOVIL</carrierName>
+        <carrierNumeric>21404</carrierNumeric>
+        <operatorNumeric>21404</operatorNumeric>
+        <operatorLong>YOIGO</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Movistar">
+        <carrierName>Yoigo</carrierName>
+        <carrierNumeric>21404</carrierNumeric>
+        <operatorNumeric>21407</operatorNumeric>
+        <operatorLong>Yoigo</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Movistar">
+        <carrierName>Yoigo</carrierName>
+        <carrierNumeric>21404</carrierNumeric>
+        <operatorNumeric>21407</operatorNumeric>
+        <operatorLong>movistar</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>Yoigo</carrierName>
+        <carrierNumeric>21404</carrierNumeric>
+        <operatorNumeric>21407</operatorNumeric>
+        <operatorLong>Movistar</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="SFR F">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>20810</operatorNumeric>
+        <operatorLong>F SFR</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="SFR F">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>20810</operatorNumeric>
+        <operatorLong>SFR</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Free F">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>20815</operatorNumeric>
+        <operatorLong>Free</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Bouygues Telecom F">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>20820</operatorNumeric>
+        <operatorLong>F-Bouygues Telecom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="BYTEL F">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>20820</operatorNumeric>
+        <operatorLong>BYTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="telecable">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>21401</operatorNumeric>
+        <operatorLong>vodafone ES</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>telecable</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>Eroski Movil</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>Lowi</carrierName>
+        <carrierNumeric>21406</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange ES">
+        <carrierName>Movistar</carrierName>
+        <carrierNumeric>21407</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>Orange SP</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>Movistar</carrierName>
+        <carrierNumeric>21407</carrierNumeric>
+        <operatorNumeric>21403</operatorNumeric>
+        <operatorLong>PTV Telecom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="movistar">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21421</carrierNumeric>
+        <operatorNumeric>21401</operatorNumeric>
+        <operatorLong>JAZZTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Yoigo">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21421</carrierNumeric>
+        <operatorNumeric>21404</operatorNumeric>
+        <operatorLong>JAZZTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="movistar">
+        <carrierName>JAZZTEL</carrierName>
+        <carrierNumeric>21421</carrierNumeric>
+        <operatorNumeric>21407</operatorNumeric>
+        <operatorLong>JAZZTEL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Coop Mobile">
+        <carrierName>Coop Mobile</carrierName>
+        <carrierNumeric>22201</carrierNumeric>
+        <operatorNumeric>22201</operatorNumeric>
+        <operatorLong>I TIM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="FASTWEB">
+        <carrierName>FASTWEB</carrierName>
+        <carrierNumeric>22208</carrierNumeric>
+        <operatorNumeric>22201</operatorNumeric>
+        <operatorLong>I TIM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="PosteMobile">
+        <carrierName>PosteMobile</carrierName>
+        <carrierNumeric>22210</carrierNumeric>
+        <operatorNumeric>22210</operatorNumeric>
+        <operatorLong>vodafone IT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="PosteMobile">
+        <carrierName>PosteMobile</carrierName>
+        <carrierNumeric>22233</carrierNumeric>
+        <operatorNumeric>22288</operatorNumeric>
+        <operatorLong>I WIND</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Lycamobile">
+        <carrierName>Lycamobile</carrierName>
+        <carrierNumeric>22235</carrierNumeric>
+        <operatorNumeric>22210</operatorNumeric>
+        <operatorLong>vodafone IT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="FASTWEB">
+        <carrierName>FASTWEB</carrierName>
+        <carrierNumeric>22299</carrierNumeric>
+        <operatorNumeric>22299</operatorNumeric>
+        <operatorLong>3 ITA</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Salt">
+        <carrierName>Swisscom</carrierName>
+        <carrierNumeric>22801</carrierNumeric>
+        <operatorNumeric>22803</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="yallo">
+        <carrierName>yallo</carrierName>
+        <carrierNumeric>22802</carrierNumeric>
+        <operatorNumeric>22802</operatorNumeric>
+        <operatorLong>Sunrise</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Lebara">
+        <carrierName>Lebara</carrierName>
+        <carrierNumeric>22802</carrierNumeric>
+        <operatorNumeric>22802</operatorNumeric>
+        <operatorLong>Sunrise</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="ortel">
+        <carrierName>ortel</carrierName>
+        <carrierNumeric>22802</carrierNumeric>
+        <operatorNumeric>22802</operatorNumeric>
+        <operatorLong>Sunrise</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="salt">
+        <carrierName>yallo</carrierName>
+        <carrierNumeric>22802</carrierNumeric>
+        <operatorNumeric>22803</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Salt">
+        <carrierName>Sunrise</carrierName>
+        <carrierNumeric>22802</carrierNumeric>
+        <operatorNumeric>22803</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Salt">
+        <carrierName>Lebara</carrierName>
+        <carrierNumeric>22802</carrierNumeric>
+        <operatorNumeric>22803</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Salt">
+        <carrierName></carrierName>
+        <carrierNumeric>22803</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="CoopMobile">
+        <carrierName>CoopMobile</carrierName>
+        <carrierNumeric>22803</carrierNumeric>
+        <operatorNumeric>22803</operatorNumeric>
+        <operatorLong>Salt</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="upc ch">
+        <carrierName>upc ch</carrierName>
+        <carrierNumeric>22853</carrierNumeric>
+        <operatorNumeric>22803</operatorNumeric>
+        <operatorLong>Salt</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Lycamobile">
+        <carrierName>Lycamobile</carrierName>
+        <carrierNumeric>22854</carrierNumeric>
+        <operatorNumeric>22801</operatorNumeric>
+        <operatorLong>Swisscom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="3 AT">
+        <carrierName>A1</carrierName>
+        <carrierNumeric>23201</carrierNumeric>
+        <operatorNumeric>23205</operatorNumeric>
+        <operatorLong>Orange AT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="3 AT">
+        <carrierName>T-Mobile A</carrierName>
+        <carrierNumeric>23203</carrierNumeric>
+        <operatorNumeric>23205</operatorNumeric>
+        <operatorLong>Orange AT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="T-Mobile A">
+        <carrierName>Orange AT</carrierName>
+        <carrierNumeric>23205</carrierNumeric>
+        <operatorNumeric>23203</operatorNumeric>
+        <operatorLong>3-AT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="heyah">
+        <carrierName>heyah</carrierName>
+        <carrierNumeric>26002</carrierNumeric>
+        <operatorNumeric>26002</operatorNumeric>
+        <operatorLong>T-Mobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="nju">
+        <carrierName>nju</carrierName>
+        <carrierNumeric>26003</carrierNumeric>
+        <operatorNumeric>26003</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="nju">
+        <carrierName>nju mobile</carrierName>
+        <carrierNumeric>26003</carrierNumeric>
+        <operatorNumeric>26003</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>Orange</carrierName>
+        <carrierNumeric>26003</carrierNumeric>
+        <operatorNumeric>26003</operatorNumeric>
+        <operatorLong>Orange PL</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Virgin mobile">
+        <carrierName>Virgin mobile</carrierName>
+        <carrierNumeric>26006</carrierNumeric>
+        <operatorNumeric>26006</operatorNumeric>
+        <operatorLong>Play</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="T-Mobile.pl">
+        <carrierName>Virgin mobile</carrierName>
+        <carrierNumeric>26006</carrierNumeric>
+        <operatorNumeric>26002</operatorNumeric>
+        <operatorLong>Virgin mobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Play">
+        <carrierName>Play</carrierName>
+        <carrierNumeric>26006</carrierNumeric>
+        <operatorNumeric>26006</operatorNumeric>
+        <operatorLong>PLAY</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Lycamobile">
+        <carrierName>Lycamobile</carrierName>
+        <carrierNumeric>26009</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>Plus</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Telekom.de">
+        <carrierName>Vodafone.de</carrierName>
+        <carrierNumeric>26202</carrierNumeric>
+        <operatorNumeric>26201</operatorNumeric>
+        <operatorLong>T-Mobile D</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Telekom.de">
+        <carrierName>o2 - de</carrierName>
+        <carrierNumeric>26207</carrierNumeric>
+        <operatorNumeric>26201</operatorNumeric>
+        <operatorLong>T-Mobile D</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="E-Plus">
+        <carrierName>o2 - de</carrierName>
+        <carrierNumeric>26207</carrierNumeric>
+        <operatorNumeric>26203</operatorNumeric>
+        <operatorLong>o2 - de</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Lycamobile">
+        <carrierName>Lycamobile</carrierName>
+        <carrierNumeric>26804</carrierNumeric>
+        <operatorNumeric>26801</operatorNumeric>
+        <operatorLong>vodafone P</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange-LU">
+        <carrierName>Join</carrierName>
+        <carrierNumeric>27001</carrierNumeric>
+        <operatorNumeric>27099</operatorNumeric>
+        <operatorLong>VOXmobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>JOIN</carrierName>
+        <carrierNumeric>27001</carrierNumeric>
+        <operatorNumeric>27099</operatorNumeric>
+        <operatorLong>VOXmobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>POST</carrierName>
+        <carrierNumeric>27001</carrierNumeric>
+        <operatorNumeric>27099</operatorNumeric>
+        <operatorLong>VOXmobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="TANGO">
+        <carrierName>TANGO</carrierName>
+        <carrierNumeric>27077</carrierNumeric>
+        <operatorNumeric>27077</operatorNumeric>
+        <operatorLong>L TANGO</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>TANGO</carrierName>
+        <carrierNumeric>27077</carrierNumeric>
+        <operatorNumeric>27099</operatorNumeric>
+        <operatorLong>VOXmobile</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange">
+        <carrierName>Orange</carrierName>
+        <carrierNumeric>27099</carrierNumeric>
+        <operatorNumeric>27099</operatorNumeric>
+        <operatorLong>L Orange-LU</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="etisalat">
+        <carrierName>etisalat</carrierName>
+        <carrierNumeric>42402</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>ETISALAT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="etisalat">
+        <carrierName>du</carrierName>
+        <carrierNumeric>42403</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>ETISALAT</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="TEST">
+        <carrierName>CMCC</carrierName>
+        <carrierNumeric>46000</carrierNumeric>
+        <operatorNumeric>46000</operatorNumeric>
+        <operatorLong>CMCC</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="TEST">
+        <carrierName>China Mobile</carrierName>
+        <carrierNumeric>46000</carrierNumeric>
+        <operatorNumeric>46000</operatorNumeric>
+        <operatorLong>CMCC</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Ooredoo">
+        <carrierName>mobilis</carrierName>
+        <carrierNumeric>60301</carrierNumeric>
+        <operatorNumeric>60303</operatorNumeric>
+        <operatorLong>Nedjma</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Meditel">
+        <carrierName>Meditel</carrierName>
+        <carrierNumeric>60400</carrierNumeric>
+        <operatorNumeric>60400</operatorNumeric>
+        <operatorLong>Orange MA</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Meditel">
+        <carrierName>Meditel</carrierName>
+        <carrierNumeric>60400</carrierNumeric>
+        <operatorNumeric>60400</operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Maroc Telecom">
+        <carrierName>Meditel</carrierName>
+        <carrierNumeric>60400</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>MOR IAM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Maroc Telecom">
+        <carrierName>Meditel</carrierName>
+        <carrierNumeric>60400</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>IAM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Meditel">
+        <carrierName>Maroc Telecom</carrierName>
+        <carrierNumeric>60401</carrierNumeric>
+        <operatorNumeric>60400</operatorNumeric>
+        <operatorLong>Orange MA</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Maroc Telecom">
+        <carrierName>Maroc Telecom</carrierName>
+        <carrierNumeric>60401</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>MOR IAM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Meditel">
+        <carrierName>Maroc Telecom</carrierName>
+        <carrierNumeric>60401</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>Orange MA</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Meditel">
+        <carrierName>inwi</carrierName>
+        <carrierNumeric>60402</carrierNumeric>
+        <operatorNumeric>60400</operatorNumeric>
+        <operatorLong>Orange MA</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Maroc Telecom">
+        <carrierName>inwi</carrierName>
+        <carrierNumeric>60402</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>MOR IAM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Maroc Telecom">
+        <carrierName>inwi</carrierName>
+        <carrierNumeric>60402</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>IAM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Maroc Telecom">
+        <carrierName>INWI</carrierName>
+        <carrierNumeric>60402</carrierNumeric>
+        <operatorNumeric>60401</operatorNumeric>
+        <operatorLong>IAM</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Airtel">
+        <carrierName>Airtel NG</carrierName>
+        <carrierNumeric>62120</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>Airtel</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="GLo NG">
+        <carrierName>glo ng</carrierName>
+        <carrierNumeric>62150</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>glo ng</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Etisalat Nigeria">
+        <carrierName>etisalat</carrierName>
+        <carrierNumeric>62160</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>etisalat</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Airtel">
+        <carrierName></carrierName>
+        <carrierNumeric>639xx</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>Airtel KE</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange KE">
+        <carrierName></carrierName>
+        <carrierNumeric>639xx</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>GSM Telkom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="Orange KE">
+        <carrierName></carrierName>
+        <carrierNumeric>639xx</carrierNumeric>
+        <operatorNumeric></operatorNumeric>
+        <operatorLong>Orange</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+</snns>

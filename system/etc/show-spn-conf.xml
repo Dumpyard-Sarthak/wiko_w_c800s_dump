@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plmnOverrides version="1">
+    <plmnOverride numeric="20601" spn="xxx" imsipattern="20601889xxxxx">
+        <registeredPlmn numeric="20810" plmn="xxx"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="20601" spn="Scarlet" imsipattern="xxx">
+        <registeredPlmn numeric="20601" plmn="xxx"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="26002" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="xxx" plmn="xxx"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="26009" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="26001" plmn="xxx"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="52000" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="52099" plmn="Truemove"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="52000" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="52004" plmn="Truemove H"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="52003" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="52015" plmn="AIS-T"></registeredPlmn>
+    </plmnOverride>
+</plmnOverrides>

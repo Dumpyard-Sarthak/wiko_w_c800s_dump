@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plmnOverrides version="1">
+    <plmnOverride numeric="21403">
+        <registeredPlmn numeric="20801"></registeredPlmn>
+        <registeredPlmn numeric="20810"></registeredPlmn>
+        <registeredPlmn numeric="20815"></registeredPlmn>
+        <registeredPlmn numeric="20820"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="21406">
+        <registeredPlmn numeric="20801"></registeredPlmn>
+        <registeredPlmn numeric="20810"></registeredPlmn>
+        <registeredPlmn numeric="20815"></registeredPlmn>
+        <registeredPlmn numeric="20820"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="26001">
+        <registeredPlmn numeric="46000"></registeredPlmn>
+    </plmnOverride>
+</plmnOverrides>

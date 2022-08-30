@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configs>
+    <config name="voicemail">
+		<item name="numeric" removeable="false">20826</item>
+		<item name="carrier" removeable="false">EI Telecom</item>
+		<item name="vmnumber" removeable="false">777</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">20826</item>
+		<item name="carrier" removeable="false">Orange F</item>
+		<item name="vmnumber" removeable="false">777</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">20801</item>
+		<item name="carrier" removeable="false">C le mobile</item>
+		<item name="vmnumber" removeable="false">888</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">20810</item>
+		<item name="carrier" removeable="false">C le mobile</item>
+		<item name="vmnumber" removeable="false">123</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">22201</item>
+		<item name="carrier" removeable="false">I TIM</item>
+		<item name="vmnumber" removeable="false">41919</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">22299</item>
+		<item name="carrier" removeable="false">3</item>
+		<item name="vmnumber" removeable="false">4133</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">20820</item>
+		<item name="carrier" removeable="false">Bouygues Telecom</item>
+		<item name="vmnumber" removeable="false">+33660660001</item>
+		<item name="vmtag" removeable="false">Messagerie vocale</item>
+	</config>
+
+    <config name="voicemail">
+		<item name="numeric" removeable="false">21403</item>
+		<item name="carrier" removeable="false">Orange</item>
+		<item name="vmnumber" removeable="false">242</item>
+		<item name="vmtag" removeable="false">Buzón de voz</item>
+    </config>
+</configs>

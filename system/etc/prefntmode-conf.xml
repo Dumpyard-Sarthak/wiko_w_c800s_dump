@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Note: Please config preferred network mode item as follow:
+    <networkmode value="9" name="4G/3G/2G"></networkmode>
+    <networkmode value="12" name="4G/3G"></networkmode>
+    <networkmode value="11" name="4G"></networkmode>
+    <networkmode value="0" name="3G/2G"></networkmode>
+    <networkmode value="2" name="3G"></networkmode>
+    <networkmode value="1" name="2G"></networkmode>
+-->
+<networkmodes name="preferred_network_mode_choices" translatable="false">
+    <networkmode value="9" name="4G/3G/2G"></networkmode>
+    <networkmode value="0" name="3G/2G"></networkmode>
+    <networkmode value="2" name="3G"></networkmode>
+    <networkmode value="1" name="2G"></networkmode>
+</networkmodes>

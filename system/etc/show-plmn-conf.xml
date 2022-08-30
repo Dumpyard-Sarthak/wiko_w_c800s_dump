@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plmnOverrides version="1">
+    <plmnOverride numeric="20601" spn="xxx" imsipattern="20601889xxxxx">
+        <registeredPlmn numeric="20810" plmn="xxx"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="20601" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="20601" plmn="Proximus"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="26207" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="26203" plmn="o2-de+"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="45201" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="45201" plmn="Mobifone"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numeric="20601" spn="xxx" imsipattern="xxx">
+        <registeredPlmn numeric="20601" plmn="Proximus"></registeredPlmn>
+    </plmnOverride>
+</plmnOverrides>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+    
+   <button
+        name="pass"
+        onclick="do_pass"
+        text="btn_pass"
+        h_rel="16"
+        w_rel="25"
+        x_rel="0"
+        y_rel="84"
+        color="0x007D7Dff" />
+   <button
+        name="extracmd"
+        text="snapshot"
+        onclick="do_extra_cmd"
+        h_rel="16"
+        w_rel="50"
+        x_rel="25"
+        y_rel="84"
+        color="0x2CF3137D" />     
+  <button
+        name="fail"
+        text="btn_fail"
+        onclick="do_fail"
+        h_rel="16"
+        w_rel="25"
+        x_rel="75"
+        y_rel="84"
+        color="0x007D7Dff" />
+  </layout>

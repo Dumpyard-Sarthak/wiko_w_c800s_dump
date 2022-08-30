@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- carrierName    : sim card carrier name -->
+<!-- carrierNumeric : sim card carrier numeric -->
+<!-- operatorNumeric: search network operator numeric -->
+<!-- operatorLong   : search network operator alpha long -->
+<!-- operatorShort  : search network operator alpha short -->
+<snns version="1">
+    <snn values="CIC Mobile">
+        <carrierName>CIC Mobile</carrierName>
+        <carrierNumeric>20826</carrierNumeric>
+        <operatorNumeric>20801</operatorNumeric>
+        <operatorLong>Orange F</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="CIC Mobile.">
+        <carrierName>CIC Mobile</carrierName>
+        <carrierNumeric>20826</carrierNumeric>
+        <operatorNumeric>20810</operatorNumeric>
+        <operatorLong>F SFR</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+    <snn values="-CIC Mobile-">
+        <carrierName>CIC Mobile</carrierName>
+        <carrierNumeric>20826</carrierNumeric>
+        <operatorNumeric>20820</operatorNumeric>
+        <operatorLong>F-Bouygues Telecom</operatorLong>
+        <operatorShort></operatorShort>
+    </snn>
+</snns>

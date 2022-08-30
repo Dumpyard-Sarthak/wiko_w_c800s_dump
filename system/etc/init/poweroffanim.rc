@@ -1,0 +1,7 @@
+service poweroffanim /system/bin/poweroffanimation
+    class core animation
+    user system
+    group media graphics audio
+    disabled
+    oneshot
+    writepid /dev/stune/top-app/tasks

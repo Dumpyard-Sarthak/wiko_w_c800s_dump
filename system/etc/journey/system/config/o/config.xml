@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <!-- in hours -->
+    <UpdateFrequency value="24" />
+
+    <!-- third -->
+    <package label="webchat"
+        permit="PERSIST,SELFBOOT,PRELOAD,"
+        names="com.tencent.mm,"
+        area="SUGAR_CN,"
+    />
+
+    <package label="webchat"
+        permit="PERSIST,SELFBOOT,"
+        names="com.tencent.mm,"
+    />
+
+    <package label="qq"
+        permit="PERSIST,SELFBOOT,"
+        names="com.tencent.mobileqq,"
+    />
+
+    <package label="facebook"
+        permit="PERSIST,SELFBOOT,"
+        names="com.facebook.orca,com.facebook.katana,"
+    />
+    <package label="skype"
+        permit="PERSIST,SELFBOOT,"
+        names="com.skype.rover,com.skype.raider,com.skype.polaris,"
+    />
+
+    <package label="whatsapp"
+        permit="PERSIST,SELFBOOT,"
+        names="com.whatsapp,"
+    />
+
+    <package label="telegram"
+        permit="PERSIST,SELFBOOT,"
+        names="org.telegram.messenger,"
+    />
+
+    <package label="imoim"
+        permit="PERSIST,SELFBOOT,"
+        names="com.imo.android.imoim,"
+    />
+
+    <package label="viber"
+        permit="PERSIST,SELFBOOT,"
+        names="com.viber.voip,"
+    />
+    
+    <!-- myos -->
+    <package label="myos"
+        permit="PERSIST,SELFBOOT,"
+        names="com.sugar.note,com.ape.weather3,com.ape.apetrialfeedback,"
+    />
+    
+    <package label="speechassist"
+        permit="PERSIST,SELFBOOT,"
+        names="com.myos.speechassist,com.iflytek.speechsuite,"
+    />
+    
+    <package label="appsstore"
+        permit="PERSIST,SELFBOOT,"
+        names="com.myos.appsstore,com.ape.ufogames,"
+    />
+
+    <package label="myseneschal"
+        permit="PERSIST,SELFBOOT,"
+        names="com.ape.myseneschal,com.myos.myseneschal,com.ape.smartassist,com.ape.cleanassist,"
+    />
+
+    <!-- system app not in system for cta -->
+    <package label="cta"
+        permit="PERSIST,SELFBOOT,"
+        names="com.android.email.provider,com.android.email,"
+    />
+        
+    <!-- location -->
+    <package label="baidu map"
+        permit="LOCATION,"
+        names="com.baidu.BaiduMap,"
+    />
+
+    <package label="amap"
+        permit="LOCATION,"
+        names="com.amap.android.location,com.autonavi.minimap,"
+    />
+
+    <package label="didi"
+        permit="LOCATION,"
+        names="com.sdu.didi.gsui,com.funcity.taxi.driver,"
+    />
+
+    <package label="xingzhe"
+        permit="LOCATION,"
+        names="im.xingzhe,"
+    />
+
+    <package label="bamboo"
+        permit="LOCATION,"
+        names="com.bamboo.ibike,"
+    />
+
+    <package label="sixfoot"
+        permit="LOCATION,"
+        names="com.topgether.sixfoot,"
+    />
+
+    <package label="iriding"
+        permit="LOCATION,"
+        names="cc.iriding.mobile,"
+    />
+
+    <package label="pedometer"
+        permit="LOCATION,"
+        names="com.ape.pedometer,"
+    />
+    
+    <package label="codoon"
+        permit="LOCATION,"
+        names="com.codoon.gps,"
+    />
+
+    <package label="yuedong"
+        permit="LOCATION,"
+        names="com.yuedong.sport,"
+    />
+
+    <package label="qqdownloader"
+        permit="REJECT_WAKEUP,"
+        names="com.tencent.android.qqdownloader,"
+    />
+
+    <!-- should be same with version.txt -->
+    <version value="21" />
+
+</config>

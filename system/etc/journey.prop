@@ -1,0 +1,39 @@
+#dalvik.vm.heapstartsize=14m
+#dalvik.vm.heapgrowthlimit=128m
+#dalvik.vm.heapsize=256m
+#dalvik.vm.heaptargetutilization=0.75
+#dalvik.vm.heapminfree=6m
+#dalvik.vm.heapmaxfree=8m
+
+#close cabl debug log , it is too much
+#debug.cabl.logs=0
+
+#Tinno:CJ see FCCBM-480 , we use dds to select which sub is LTE sub
+#persist.radio.flexmap_type=nw_mode
+
+#mbn ota for modem side mcfg
+persist.radio.start_ota_daemon=1
+
+#increase some log size for boot debug , this prop use in LogBuffer::init() , there is 5 log ,so the max size is 5*persist.logd.size
+#Tinno:sunny.sang enlarge the buffer size to 4194304
+#persist.logd.size=2097152
+persist.logd.size=4194304
+
+#TINNO:sunny.sang add for log drop 20161221
+persist.logd.filter=" "
+
+#CJ always need kernel log in user mode
+ro.logd.kernel=true
+
+#Tinno:CJ fix some dsds bug
+#persist.tinno.dsds=true
+
+persist.sys.ssr.restart_level=ALL_ENABLE
+persist.sys.ssr.enable_ramdumps=2
+
+#TINNO sunny.sang add for tinno log num
+persist.tinno.log.num=10
+
+#Tinno:CJ we dont need ct nsrm and tcm 
+persist.vendor.dpm.feature=1
+

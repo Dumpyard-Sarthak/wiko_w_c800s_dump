@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+	
+	<setting name="feature_fingerprint_touch_default_status" value="0"/>
+	<setting name="feature_fingerprint_back_navigation_default_status" value="0"/>
+        <setting name="feature_fingerprint_is_back_sensor" value="1"/>
+        <setting name="feature_fingerprint_is_camera_capture" value="1"/>
+</resources>

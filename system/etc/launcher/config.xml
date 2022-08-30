@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SIM detection - Workspace configuration -->
+    <bool name="sim_detection_enable">true</bool>
+    <bool name="sim_detection_is_optional">false</bool>
+    <string name="sim_detection_notification" translatable="false">
+    {
+    	\"en\" : \"Do you want to upgrade your workspace?\", 
+    	\"fr\": \"Voulez-vous mettre à jour votre bureau?\",
+    	\"es\": \"Que desee actualizar su oficina?\",
+    	\"it\": \"Volete aggiornare il vostro ufficio?\",
+    	\"ru\": \"Хотите обновить офис?\",
+    	\"sr\": \"Želite da ažurirate kancelariju?\",
+    	\"ar\": \"تريد تحديث مكتبك؟\",
+    	\"de\": \"Möchten Sie Ihr Büro aktualisieren?\",
+    	\"zh\": \"要更新你的办公室？\",
+    	\"cz\": \"Chcete aktualizovat své kanceláře?\"
+    }
+    </string>
+
+    <!-- Smart Left Page -->
+    <bool name="slp_available">true</bool> 
+    <bool name="slp_default_state">true</bool> 
+
+    <!-- Suggested Apps -->
+    <bool name="suggested_apps_available">false</bool> 
+    <bool name="suggested_apps_default_state">false</bool> 
+
+    <!-- Kids Mode -->
+    <bool name="kids_mode_available">false</bool> 
+    <bool name="kids_mode_default_state">false</bool>
+    
+    <!-- Wallpapers configuration -->
+    <string name="wallpaper_default_theme" translatable="false">/system/etc/default_theme_icon/wallpaper</string>
+    <string name="wallpaper_original_path" translatable="false">/system/etc/internal_wallpaper</string> <!-- /system/etc/internal_wallpaper OR /system/etc/iamgeswallpapers -->
+    <string name="wallpaper_thumbnail_path" translatable="false">/system/etc/internal_wallpaper</string> <!-- /system/etc/internal_wallpaper OR /system/etc/thumbwallpapers -->
+    <string name="wallpaper_suffix" translatable="false">_small</string> <!-- _small OR nothing -->
+    
+</resources>

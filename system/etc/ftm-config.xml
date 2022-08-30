@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>	
+    <!-- QC：Ver7.1.00.11 -->
+    <!-- item: List the not supported items in your project: -->
+    <setting type="item" name="AudioCali" value="0"/>
+
+
+    <!-- config: "1" means true, "0" means false -->
+    <setting type="config" name="keys_MENU_HOME_BACK_BACKTOUCH_SUGAR" value="0,0,0,0,0"/> <!--Keys: if the key is support, set to "1",else "0"-->
+    <setting type="config" name="Show_MEID" value="0"/>                       <!--Version-->
+    <setting type="config" name="TP" value="0"/>                              <!--TouchPanel: "0", "1", "2" means 3 ways to test-->
+    <setting type="config" name="Skip_SD_check" value="0"/>                   <!--MemoryCard-->
+    <setting type="config" name="no_front_flash" value="1"/>                  <!--LED-->
+    <setting type="config" name="Mic_2" value="1"/>                           <!--MicRecorder-->
+    <!-- only for msm8909 platform start -->
+        <!--read tp version from this file, like v3931: value="/proc/Tinno_devinfo/TouchPanel"-->
+    <setting type="config" name="Tp_version_file" value="0"/>                 <!--Version: "0" means use the default:"/sys/kernel/dev_info/tp_info"-->
+        <!-- set otg status file and the host's value, use ',' to seperate, like v3931: value="/sys/class/power_supply/usb/scope, System" -->
+    <setting type="config" name="Otg_status_filePath_and_hostValue" value="0"/> <!--OTG:"0" means use the default:"/sys/class/power_supply/usb/usb_otg"-->
+    <!-- only for msm8909 platform end -->
+    <setting type="config" name="FlashLed_Open_Camera" value="1"/>
+
+
+
+
+<!-- test items: if not support, set to "0" -->
+<!--
+    <setting type="item" name="Keys" value="0"/>
+    <setting type="item" name="Version" value="0"/>
+    <setting type="item" name="AudioCali" value="0"/>
+    <setting type="item" name="MemoryCard" value="1"/>
+    <setting type="item" name="LED" value="0"/>
+    <setting type="item" name="HALL" value="0"/>
+    <setting type="item" name="FTMFMRadio" value="0"/>
+    <setting type="item" name="MicRecorder" value="0"/>
+    <setting type="item" name="OTG" value="0"/>
+    <setting type="item" name="Battery" value="0"/>
+    <setting type="item" name="Alsps" value="0"/>
+    <setting type="item" name="MSensor" value="0"/>
+    <setting type="item" name="GSensor" value="0"/>
+    <setting type="item" name="Gyroscope" value="0"/>
+    <setting type="item" name="Camera" value="0"/>
+    <setting type="item" name="CallTest" value="0"/>
+    <setting type="item" name="Nfc" value="0"/>
+    
+  Don't modify items to "0" below, unless DontRunItemsInBackground set to "1":
+    <setting type="item" name="TouchPanel" value="1"/>
+    <setting type="item" name="LCDcolor" value="1"/>
+    <setting type="item" name="LCDcontrast" value="1"/>
+    <setting type="item" name="Speaker" value="1"/>
+    <setting type="item" name="Receiver" value="1"/>
+    <setting type="item" name="VibratorTest" value="1"/>
+    <setting type="item" name="SIMDetect" value="1"/>
+    <setting type="item" name="WiFiList" value="1"/>
+    <setting type="item" name="BluetoothList" value="1"/>
+-->
+    
+    <!--<setting type="config" name="WriteNv_use_qcNvItems_interface" value="0"/>  "1": use qcNvItems to write nv/ "0": use libdiag.so write nv--> 
+    <!--<setting type="config" name="ReadNv_use_qcNvItems_interface" value="0"/>-->
+    <!--<setting type="config" name="DontRunItemsInBackground" value="0"/>  "0":do some items in background,combine some items,"1":items test one by one-->
+    <!--<setting type="config" name="loopback_volume" value="60,60"/>        MicRecorder: default 50, control volume of loopback test-->
+</resources>

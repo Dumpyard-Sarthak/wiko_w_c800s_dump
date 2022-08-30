@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plmnOverrides version="1">
+    <plmnOverride numericplmn="21401vodafone P">
+        <registeredPlmn numeric="26801" plmn="vodafone ES"></registeredPlmn>
+    </plmnOverride>
+
+    <plmnOverride numericplmn="21407P NOS">
+        <registeredPlmn numeric="26803" plmn="movistar"></registeredPlmn>
+    </plmnOverride>
+</plmnOverrides>
